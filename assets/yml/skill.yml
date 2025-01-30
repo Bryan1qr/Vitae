@@ -1,0 +1,12 @@
+lang:
+  title: Lenguajes
+  description: Español (Nativo), Inglés (Intermedio)
+programming:
+  title: Lenguajes de programación
+  description: Python (intermedio) y R (avanzado)
+office:
+  title: Ofimática
+  description: Word (intermedio), PowerPoint (intermedio) y Excel (intermedio)
+blandas:
+  title: Habilidades blandas
+  description: Comunicación efectiva, gestión de tiempo, trabajo en equipo, capacidad de análisis, creatividad.

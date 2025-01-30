@@ -1,0 +1,46 @@
+---
+title: "Bryan's CV"
+lang: es
+profile-photo: "logo.jpg"
+style:
+   color-accent: "516db0"
+   font-header: "Roboto"
+   font-text: "Source Sans Pro"
+author:
+  firstname: Bryan Antony
+  lastname: Quispe Ramos
+  address: "Tacna, Perú"
+  position: "Bachiller en Ingeniería Ambiental"
+  contacts:
+    - icon: fa envelope
+      text: bryan1qr@gmail.com
+      url: "bryan1qr@gmail.com"
+    # - icon: assets/icon/bi-house-fill.svg
+    #   text: Mi página web
+    #   url: https://example.com
+    - icon: fa brands github
+      text: https://github.com/bryan1qr
+      url: https://github.com/bryan1qr
+    - icon: fa brands linkedin
+      text: https://linkedin.com/in/bryan1qr
+      url: https://linkedin.com/in/bryan1qr
+format: awesomecv-typst
+---
+
+Bachiller en Ingeniería Ambiental, quinto superior, con interés en calidad de aire, análisis de datos, lenguajes de programación, monitoreos ambientales y analisis espacial. Me he desempeñado como asistente técnico en temas ambientales adquiriendo habilidades que me permiten realizar analisis de datos numéricos, espaciales, monitoreos ambientales, generación de reportes, mapas de buena calidad, planos y algunos instrumentos de gestión ambiental. Me gusta leer y automatizar tareas repetitivas para hacer los trabajos más dinámicos y eficientes.
+
+## Educación
+
+{{< yaml assets/yml/education.yml >}}
+
+## Experiencia
+
+{{< yaml assets/yml/work.yml >}}
+
+## Conocimientos en Software
+
+{{< yaml assets/yml/award.yml >}}
+
+## Habilidades
+
+{{< yaml assets/yml/skill.yml >}}

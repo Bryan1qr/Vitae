@@ -1,0 +1,11 @@
+RStudio:
+  title: RStudio
+  description: Analítica de datos ambientales
+  details:
+    - Procesamiento de series de Tiempo, estadística paramétrica, no paramétrica, graficación avanzada con ggplot2, reportes científicos usando Quarto y Rmarkdown (dashboards, pdfs, presentaciones RevealJs, Xaringan, epubs, páginas html), procesamiento y análisis de datos meteorológicos con el paquete openair (series de tiempo, rosas de viento, rosas de contaminación y gráficos de tipo calendario).
+GIS:
+  title: GIS
+  description: Analisis espacial y diseño cartográfico
+  details:
+    - Con QGIS carga, edición, digitalización y procesamiento de datos vectoriales, raster, netCDF, gestión de bases de datos espaciales, creación de proyectos en la nube, uso del modelador gráfico para tareas repetitivas, gráficos interactivos con dataPlotly, uso de Atlas, administración y colecta de datos de campo usando Qfield.
+    - Con ArcGIS carga, edición, digitalización y procesamiento de datos vectoriales, raster, netCDF, uso de model builder para tareas repetitivas y análisis geoestadístico utilizando Geostatistical Analyst.

@@ -1,0 +1,50 @@
+MESOMI1:
+  title: Asistente Técnico Ambiental
+  location: Tacna, Perú
+  date: mayo - diciembre 2024
+  description: Gobierno Regional de Tacna - Proyecto MESOMI
+  details:
+    - Asistencia en instalaciones de caseta móvil de monitoreo de calidad de aire.
+    - Descarga de datos de calidad de aire de manera manual (datalogger RS232 a usb).
+    - Procesamiento de datos de calidad de aire (utilizando lenguaje R).
+    - Generación de reportes de calidad de aire (utilizando RStudio y Quarto).
+    - Generación de dataset de calidad de aire y dataset de calidad de agua (utilizando R).
+    - Generación de mapas de ubicación de puntos de monitoreo de aire (utilizando QGIS).
+EPSILOSA:
+  title: Asistente técnico
+  location: Moquegua, Perú
+  date: febrero - diciembre 2023
+  description: EPS Ilo S.A. - MRSE Hídrico
+  details:
+    - Descarga manual de datos hidrometeorológicos de estación ubicada a 4300 m.s.n.m.
+    - Procesamiento de datos hidrometeorológicos a diferentes escalas (utilizando R).
+    - Mantenimiento de dashboard hidrológico para el MRSE-H (utilizando RStudio y Quarto).
+    - Apoyo en coordinaciones logísticas para el trabajo con proveedores de servicios.
+    - Asistencia en coordinaciones con comunidades campesinas de cabeceras de cuencas de Moquegua.
+CSO:
+  title: Asistente técnico
+  location: Puno, Perú
+  date: mayo - diciembre 2023
+  description: Consorcio Supervisor Ollachea
+  details:
+    - Asistencia en monitoreos ambientales en obra vial.
+    - Asistencia en levantamientos topográficos de diferentes componentes de una obra vial.
+    - Asistencia en la generación de reportes mensuales y paneles fotográficos.
+LENVIR:
+  title: Asistente técnico
+  location: Tacna, Perú
+  date: agosto 2021 - abril 2022
+  description: Lenvir S.A.C.
+  details:
+    - Asistencia en elaboración de Instrumentos de Gestión Ambiental (FITSA, FTA y DIA).
+    - Elaboración de mapas temáticos (ArcGIS y QGIS).
+    - Elaboración de planos (utilizando AutoCAD y Civil 3D).
+ADRIKAP:
+  title: Asistente técnico ambiental
+  location: Tacna, Perú
+  date: marzo - julio 2021
+  description: Grupo Adrikap S.A.C.
+  details:
+    - Asistencia en elaboración de Instrumentos de Gestión Ambiental (DIA, PMRRSS e ITS).
+    - Monitoreos ambientales de calidad de aire, ruido, análisis de datos estadísticos.
+    - Elaboración de mapas temáticos (ArcGIS).

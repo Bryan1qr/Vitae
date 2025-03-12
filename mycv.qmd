@@ -25,9 +25,11 @@ author:
       text: https://linkedin.com/in/bryan1qr
       url: https://linkedin.com/in/bryan1qr
 format: awesomecv-typst
+editor_options: 
+  chunk_output_type: console
 ---
 
-Bachiller en Ingeniería Ambiental, quinto superior, con interés en calidad de aire, análisis de datos, lenguajes de programación, monitoreos ambientales y analisis espacial. Me he desempeñado como asistente técnico en temas ambientales adquiriendo habilidades que me permiten realizar analisis de datos numéricos, espaciales, monitoreos ambientales, generación de reportes, mapas de buena calidad, planos y algunos instrumentos de gestión ambiental. Me gusta leer y automatizar tareas repetitivas para hacer los trabajos más dinámicos y eficientes.
+Bachiller en Ingeniería Ambiental, quinto superior, con interés en calidad de aire, análisis de datos, lenguajes de programación, monitoreos ambientales y analisis espacial. Me he desempeñado como asistente técnico en temas ambientales adquiriendo habilidades que me permiten realizar analisis de datos numéricos, espaciales, monitoreos ambientales, generación de reportes, mapas de buena calidad, planos y algunos instrumentos de gestión ambiental. Me gusta leer y automatizar tareas repetitivas para hacer los trabajos dinámicos y eficientes.
 
 ## Educación
 
